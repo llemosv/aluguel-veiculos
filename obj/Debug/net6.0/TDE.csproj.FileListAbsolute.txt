@@ -1,0 +1,45 @@
+C:\Users\Leonardo\Documents\TDE\bin\Debug\net6.0\TDE.exe
+C:\Users\Leonardo\Documents\TDE\bin\Debug\net6.0\TDE.deps.json
+C:\Users\Leonardo\Documents\TDE\bin\Debug\net6.0\TDE.runtimeconfig.json
+C:\Users\Leonardo\Documents\TDE\bin\Debug\net6.0\TDE.dll
+C:\Users\Leonardo\Documents\TDE\bin\Debug\net6.0\TDE.pdb
+C:\Users\Leonardo\Documents\TDE\obj\Debug\net6.0\TDE.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Documents\TDE\obj\Debug\net6.0\TDE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Documents\TDE\obj\Debug\net6.0\TDE.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Documents\TDE\obj\Debug\net6.0\TDE.AssemblyInfo.cs
+C:\Users\Leonardo\Documents\TDE\obj\Debug\net6.0\TDE.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\TDE\obj\Debug\net6.0\TDE.dll
+C:\Users\Leonardo\Documents\TDE\obj\Debug\net6.0\refint\TDE.dll
+C:\Users\Leonardo\Documents\TDE\obj\Debug\net6.0\TDE.pdb
+C:\Users\Leonardo\Documents\TDE\obj\Debug\net6.0\TDE.genruntimeconfig.cache
+C:\Users\Leonardo\Documents\TDE\obj\Debug\net6.0\ref\TDE.dll
+C:\Users\Leonardo\OneDrive\Área de Trabalho\TDE\bin\Debug\net6.0\TDE.exe
+C:\Users\Leonardo\OneDrive\Área de Trabalho\TDE\bin\Debug\net6.0\TDE.deps.json
+C:\Users\Leonardo\OneDrive\Área de Trabalho\TDE\bin\Debug\net6.0\TDE.runtimeconfig.json
+C:\Users\Leonardo\OneDrive\Área de Trabalho\TDE\bin\Debug\net6.0\TDE.dll
+C:\Users\Leonardo\OneDrive\Área de Trabalho\TDE\bin\Debug\net6.0\TDE.pdb
+C:\Users\Leonardo\OneDrive\Área de Trabalho\TDE\obj\Debug\net6.0\TDE.csproj.AssemblyReference.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\TDE\obj\Debug\net6.0\TDE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\OneDrive\Área de Trabalho\TDE\obj\Debug\net6.0\TDE.AssemblyInfoInputs.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\TDE\obj\Debug\net6.0\TDE.AssemblyInfo.cs
+C:\Users\Leonardo\OneDrive\Área de Trabalho\TDE\obj\Debug\net6.0\TDE.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\TDE\obj\Debug\net6.0\TDE.dll
+C:\Users\Leonardo\OneDrive\Área de Trabalho\TDE\obj\Debug\net6.0\refint\TDE.dll
+C:\Users\Leonardo\OneDrive\Área de Trabalho\TDE\obj\Debug\net6.0\TDE.pdb
+C:\Users\Leonardo\OneDrive\Área de Trabalho\TDE\obj\Debug\net6.0\TDE.genruntimeconfig.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\TDE\obj\Debug\net6.0\ref\TDE.dll
+C:\Users\leonardo.marques\Desktop\tde\bin\Debug\net6.0\TDE.exe
+C:\Users\leonardo.marques\Desktop\tde\bin\Debug\net6.0\TDE.deps.json
+C:\Users\leonardo.marques\Desktop\tde\bin\Debug\net6.0\TDE.runtimeconfig.json
+C:\Users\leonardo.marques\Desktop\tde\bin\Debug\net6.0\TDE.dll
+C:\Users\leonardo.marques\Desktop\tde\bin\Debug\net6.0\TDE.pdb
+C:\Users\leonardo.marques\Desktop\tde\obj\Debug\net6.0\TDE.csproj.AssemblyReference.cache
+C:\Users\leonardo.marques\Desktop\tde\obj\Debug\net6.0\TDE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.marques\Desktop\tde\obj\Debug\net6.0\TDE.AssemblyInfoInputs.cache
+C:\Users\leonardo.marques\Desktop\tde\obj\Debug\net6.0\TDE.AssemblyInfo.cs
+C:\Users\leonardo.marques\Desktop\tde\obj\Debug\net6.0\TDE.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.marques\Desktop\tde\obj\Debug\net6.0\TDE.dll
+C:\Users\leonardo.marques\Desktop\tde\obj\Debug\net6.0\refint\TDE.dll
+C:\Users\leonardo.marques\Desktop\tde\obj\Debug\net6.0\TDE.pdb
+C:\Users\leonardo.marques\Desktop\tde\obj\Debug\net6.0\TDE.genruntimeconfig.cache
+C:\Users\leonardo.marques\Desktop\tde\obj\Debug\net6.0\ref\TDE.dll
